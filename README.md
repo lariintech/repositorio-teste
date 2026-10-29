@@ -1,2 +1,2 @@
 # repositorio-teste
-Repsitório teste para Git e GitHub
+Repositório teste para Git e GitHub
